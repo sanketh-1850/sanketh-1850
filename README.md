@@ -9,7 +9,9 @@
 
 ---
 
-## 🧠 About Me  
+<p align="center">
+  <img src="assets/About-Me.png" alt="Sanketh Sequeira Cosmic Header" width="100%">
+</p>  
 
 I’m a developer who enjoys blending **machine learning**, **data security**, and **software engineering** to create systems that are both intelligent and responsible.  
 My work focuses on applying **AI and software solutions** to real-world problems that range from data protection to automation and prediction systems.  
