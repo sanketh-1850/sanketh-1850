@@ -1,6 +1,6 @@
 <!-- 🌠 COSMIC INTRO BANNER -->
 <p align="center">
-  <img src="assets/cosmic_banner.gif" alt="Sanketh Sequeira Cosmic Header" width="100%">
+  <img src="assets/github-header-banner.png" alt="Sanketh Sequeira Cosmic Header" width="100%">
 </p>
 
 # 👋 Hi, I'm Sanketh Sequeira  
