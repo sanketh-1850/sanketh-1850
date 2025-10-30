@@ -1,9 +1,7 @@
 <!-- 🌠 COSMIC INTRO BANNER -->
 <p align="center">
   <img src="assets/github-header-banner.png" alt="Sanketh Sequeira Cosmic Header" width="100%">
-</p>
-
-# 👋 Hi, I'm Sanketh Sequeira  
+</p> 
 
 🎓 Graduate Student at the **University of Illinois Chicago (MSCS)**  
 💡 Passionate about **AI, automation, and secure software systems**  
