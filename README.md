@@ -75,10 +75,11 @@ A **Named Entity Recognition (NER)**–based application for **masking personal 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanketh-1850&show_icons=true&theme=radical" height="160">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=sanketh-1850&show_icons=true&theme=radical" height="160" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketh-1850&layout=compact&theme=radical" height="160">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=sanketh-1850&layout=compact&theme=radical" height="160" />
 </p>
+
 
 <!-- 🟩 Contribution Graph -->
 <p align="center">
