@@ -19,10 +19,18 @@ My work focuses on applying **AI and software solutions** to real-world problems
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=800&color=FFB3F9&vCenter=true&repeat=false&width=500&lines=👨‍💻+I'm+Currently+Working+On" alt="Currently Working On"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=800&color=FFB3F9&vCenter=true&repeat=false&width=350&lines=🔒+Featured+Projects" alt="Featured Projects"/>
 </p>
 
-### [DocBot](https://github.com/sanketh-1850/DocBot)  
+### [OBDPlus](https://github.com/sanketh-1850/OBDPlus)  
+An **AI-powered vehicle diagnostic assistant** that helps users interpret and fix engine issues efficiently.
+- Uses OBD-II data with LLM-based reasoning to **translate error codes** into **clear explanations** and **actionable repair steps**.
+- Works with **any low-cost OBD adapter**, avoiding vendor lock-in and recurring subscriptions found in commercial tools.
+- Aims to **reduce diagnostic costs** and empower users with **repair guidance** that traditional scanners and apps do not provide.  
+
+---
+
+### [DocBot](https://github.com/UIC-CS480-Fall2025/dash)  
 An **LLM-powered developer assistant** designed to help programmers navigate complex documentation efficiently.  
 - Uses **Retrieval-Augmented Generation (RAG)** to fetch relevant content from large documentation sets.  
 - Integrates a **PostgreSQL relational database** for user, query, and document management.  
@@ -30,10 +38,6 @@ An **LLM-powered developer assistant** designed to help programmers navigate com
 - Aims to simplify the way developers interact with technical libraries like **Pandas**, **NumPy**, and others.  
 
 ---
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=800&color=FFB3F9&vCenter=true&repeat=false&width=350&lines=🔒+Featured+Project" alt="Featured Project"/>
-</p>
 
 ### [DataGuard](https://github.com/sanketh-1850/DataGuard)  
 A **Named Entity Recognition (NER)**–based application for **masking personal and medical information**, ensuring the secure handling of sensitive data.  
@@ -50,7 +54,7 @@ A **Named Entity Recognition (NER)**–based application for **masking personal 
 **Languages:** C#, Java, Python, C++, C, MySQL, HTML, CSS  
 **Libraries:** Pandas, NumPy, Matplotlib, Scikit-Learn, Keras  
 **Developer Tools:** Git, GitHub, Unity 2D, Jira, VS Code, Eclipse, Google Colab  
-**Core Skills & Technologies:** Data Structures, Algorithms, RESTful APIs  
+**Core Skills & Technologies:** Data Structures, Algorithms, RESTful APIs, .NET, ASP.NET  
 **Soft Skills:** Problem Solving, Teamwork, Critical Thinking, Adaptability, Growth Mindset  
 
 ---
